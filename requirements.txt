@@ -1,0 +1,17 @@
+torch
+torchvision
+numpy
+pandas
+scipy
+scikit-learn
+pillow
+opencv-python
+requests
+datasets
+huggingface_hub
+langgraph
+langchain
+langchain-openai
+faiss-cpu
+ipykernel
+jupyterlab
