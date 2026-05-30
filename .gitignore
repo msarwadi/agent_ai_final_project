@@ -4,3 +4,6 @@ venv
 
 checkpoints
 checkpoints/
+
+.DS_Store
+*.DS_Store
