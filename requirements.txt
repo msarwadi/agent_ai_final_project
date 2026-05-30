@@ -16,4 +16,5 @@ faiss-cpu
 ipykernel
 jupyterlab
 timm
-fais
+faiss-cpu
+sentence-transformers
